@@ -1,5 +1,5 @@
 Help
-- on page http://34.65.115.155/codenjoy-contest/resources/help/bomberman-en.html
+- on page http://34.65.115.155/codenjoy-contest/help/bomberman-en.html
 
 Registration:
 - register your hero on server http://34.65.115.155/codenjoy-contest/login
